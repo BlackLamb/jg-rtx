@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# JG RTX
 
-You can use the [editor on GitHub](https://github.com/jasonjgardner/jg-rtx/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![JG RTX pack icon](https://raw.githubusercontent.com/jasonjgardner/jg-rtx/master/dist/pack_icon.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+JG RTX is an open-source Minecraft resource pack with a [Creative Commons license](https://creativecommons.org/licenses/by-sa/4.0/). The [resource pack](https://github.com/jasonjgardner/jg-rtx/releases) and texture assets are free to download on [this project's GitHub repository](https://github.com/jasonjgardner/jg-rtx).
 
-### Markdown
+__This pack is in early phases of development.__ There currently is no theme in mind. *Many textures have nothing to do with the block description!* The block textures/assignments will change frequently, and perhaps drastically, during development. This resource pack is intended to be used in Creative Mode and only in the Overworld dimension. Blocks from the Nether and the End have been repurposed.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## It's Free
 
-```markdown
-Syntax highlighted code block
+I'm so tired of following AdFly links or making Patreon contributions to download Minecraft resource packs. Aren't you? There are [better things](https://donate.doctorswithoutborders.org/onetime.cfm) to spend your money on than Minecraft textures.
 
-# Header 1
-## Header 2
-### Header 3
+### Open-Source / Share-Alike
 
-- Bulleted
-- List
+I hope to make __a bunch__ of textures. So many that I won't know what to do with them. Anyone ambitious enough to create their own resource pack is welcome to copy, modify, and redistribute these textures — as long as the resource pack is also freely distributed (if published) and the amazing, benevolent original author gets some credit: [Jason Gardner](https://jasongardner.co)
 
-1. Numbered
-2. List
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jasonjgardner/jg-rtx/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The texture source files (Photoshop and Substance documents) are available on [Google Drive](https://drive.google.com/drive/folders/1TtPpy-yjNDZpjd7pSJAcqL2FT-9k2Xtz?usp=sharing). *Please note:* Some source files can not be shared due to licensing restrictions.
